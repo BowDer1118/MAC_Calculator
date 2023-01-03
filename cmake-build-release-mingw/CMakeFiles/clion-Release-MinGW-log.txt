@@ -1,4 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2022.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.3.1/bin/ninja/win/ninja.exe" -G Ninja -S C:\Self-Learning\Mac_Calculator_GUI -B C:\Self-Learning\Mac_Calculator_GUI\cmake-build-release-mingw
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Self-Learning/Mac_Calculator_GUI/cmake-build-release-mingw
