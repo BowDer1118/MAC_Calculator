@@ -2,8 +2,8 @@
 
 
 **[Introduction]**<br>
-This is a MacOS-like Calculator made by GTK GUI. <br>
-And supported 3 different interaction mode.
+This is a MacOS-like Calculator made in C Language and combined with GTK GUI. <br>
+This application supported 3 different interaction mode.
 
 ![image](https://github.com/BowDer1118/MAC_Calculator/blob/cef2bdb7e5dc2345b4996826cb2d358f52fe1920/images/Demo.gif)
 
@@ -17,9 +17,10 @@ And supported 3 different interaction mode.
 3. GTK 3.0
 
 **[Interaction Supports]**
-- Console Mode
+By passing 3 different arguments in command line, you can activate 3 different mode.
+- Console Mode (argument:console)
 ![image](https://github.com/BowDer1118/MAC_Calculator/blob/cef2bdb7e5dc2345b4996826cb2d358f52fe1920/images/ConsoleDemo.gif)
-- Unit Test Mode
+- Unit Test Mode (argument:ut)
 ![image](https://github.com/BowDer1118/MAC_Calculator/blob/cef2bdb7e5dc2345b4996826cb2d358f52fe1920/images/UnitTestDemo.gif)
-- GTK GUI Mode <br>
+- GTK GUI Mode (argument:No argument. This is the default mode.) <br>
 ![image](https://github.com/BowDer1118/MAC_Calculator/blob/cef2bdb7e5dc2345b4996826cb2d358f52fe1920/images/Demo.gif)
