@@ -20,7 +20,7 @@ Just need to dobule click "Mac_Calculator_GUI.exe".
 **[IDE & Tools]**
 1. CLion with C11 Standard
 2. MSYS2 
-3. GTK 3.0
+3. GTK 3.0 + Glade
 
 **[Interaction Supports]**<br>
 By passing 3 different arguments in command line, you can activate 3 different mode.
