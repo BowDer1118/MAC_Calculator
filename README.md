@@ -1,7 +1,7 @@
 # MAC_Calculator
 This is a MacOS-like Calculator made by GTK GUI
 
-
+![image](https://github.com/BowDer1118/MAC_Calculator/blob/871fbcde54391e5f80bc1b3eb7d4ae90d6f6699c/Demo.gif)
 
 
 System Architecture
