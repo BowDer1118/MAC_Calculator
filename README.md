@@ -13,7 +13,7 @@ This is a MacOS-like Calculator made by GTK GUI
 2. MSYS2
 3. GTK 3.0
 
-[Support]
+[Interaction Support]
 - Console Mode
-- Unit Test
-- GTK GUI
+- Unit Test Mode
+- GTK GUI Mode
