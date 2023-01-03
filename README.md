@@ -1,9 +1,9 @@
 # MAC_Calculator
 
 
-**[Introduction]**
-This is a MacOS-like Calculator made by GTK GUI.
-Supported 3 different interactions.
+**[Introduction]**<br>
+This is a MacOS-like Calculator made by GTK GUI. <br>
+And supported 3 different interaction mode.
 
 ![image](https://github.com/BowDer1118/MAC_Calculator/blob/871fbcde54391e5f80bc1b3eb7d4ae90d6f6699c/Demo.gif)
 
@@ -16,7 +16,10 @@ Supported 3 different interactions.
 2. MSYS2
 3. GTK 3.0
 
-**[Interaction Support]**
+**[Interaction Supports]**
 - Console Mode
+- ![image]()
 - Unit Test Mode
+- ![image]()
 - GTK GUI Mode
+- ![image]()
