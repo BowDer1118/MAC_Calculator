@@ -10,7 +10,7 @@ Application supported 3 different interaction mode.
 **[Execution File]**<br>
 A executable file (.exe) was prepared in portable directory.<br>
 This application can run in Windows10 without any dependency files.<br>
-Just need to dobule click "Mac_Calculator_GUI.exe".
+Just need to double click "Mac_Calculator_GUI.exe".
 
 
 **[System Architecture]**
